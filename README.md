@@ -1,2 +1,2 @@
-# Autotestplat-V2.0
-一站式自动化测试平台解决方案
+# Autotestplat
+一站式自动化测试平台，资料文档
