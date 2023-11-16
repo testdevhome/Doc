@@ -26,22 +26,16 @@ mysql
 第一步、设置用户，设置产品/项目，用户设置默认产品，也就是当前正在进入使用的产品。<br>
 第二步、在系统设置中设置参数，环境设置即设置host地址，常量即设置固定值作为参数，变量可以是时间戳，随机数字、字符等。<br>
 第三步、在接口用例中进行接口用例录入调试，设置断言，通过正则表达式设置关联参数，执行；在接口中通过{关键字}设置参数。<br>
-第四步、在测试计划中选择接口用例，修改接口参数，手动执行调试。<br>
-第五步、在定时任务中选择测试计划，保存后执行以及定时自动执行。<br>
-第六步、在测试报告中查看测试记录，报告的详情数据。<br>
+第四步、在测试计划中选择接口用例，修改接口参数，设置定时，勾选调试。<br>
+第五步、在测试报告中查看测试记录，报告的详情数据。<br>
 
 ![image](https://github.com/testdevhome/Doc/blob/main/pic/systemsetting.png)
 ![image](https://github.com/testdevhome/Doc/blob/main/pic/apitestcase.png)
 ![image](https://github.com/testdevhome/Doc/blob/main/pic/editpara.png)
 ![image](https://github.com/testdevhome/Doc/blob/main/pic/testresult.png)
 ![image](https://github.com/testdevhome/Doc/blob/main/pic/testplan.png)
-![image](https://github.com/testdevhome/Doc/blob/main/pic/task.png)
 ![image](https://github.com/testdevhome/Doc/blob/main/pic/report.png)
 
-
-    欢迎关注我们的微信公众号，请扫一扫如下图：
-
-![image](https://github.com/testdevhome/Doc/blob/main/pic-V1.0/testdevhome.jpg)
 
 
 
