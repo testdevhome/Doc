@@ -29,6 +29,7 @@ mysql
 第四步、在测试计划中选择接口用例，修改接口参数，设置定时，勾选调试。<br>
 第五步、在测试报告中查看测试记录，报告的详情数据。<br>
 
+![image](https://github.com/testdevhome/Doc/blob/main/pic/userproduct.png)
 ![image](https://github.com/testdevhome/Doc/blob/main/pic/systemsetting.png)
 ![image](https://github.com/testdevhome/Doc/blob/main/pic/apitestcase.png)
 ![image](https://github.com/testdevhome/Doc/blob/main/pic/editpara.png)
